@@ -4,6 +4,7 @@ THRIVE_AI is an advanced Retrieval-Augmented Generation (RAG) based chatbot desi
 Combining natural language understanding with domain-specific knowledge retrieval, this AI-powered assistant delivers helpful responses rooted in verified psychological resources — offering a supportive first step toward emotional well-being.
 
 💡 Key Features:
+
 🧠 RAG Architecture: Combines generative AI with vector-based document retrieval for accurate, up-to-date responses.
 
 🗣️ Conversational AI: Understands user concerns and provides thoughtful, non-judgmental replies.
