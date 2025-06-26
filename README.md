@@ -1,4 +1,4 @@
-#🧠 THRIVE-AI
+# 🧠 THRIVE-AI
 THRIVE_AI is an advanced Retrieval-Augmented Generation (RAG) based chatbot designed to provide empathetic, safe, and context-aware conversations for individuals seeking mental health support.
 
 Combining natural language understanding with domain-specific knowledge retrieval, this AI-powered assistant delivers helpful responses rooted in verified psychological resources — offering a supportive first step toward emotional well-being.
