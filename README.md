@@ -23,8 +23,7 @@ THRIVE-AI is an intelligent web application designed to enhance user well-being 
 
 - Visual Studio Code
 
-
-
+## 🖼️ Application Interface – Screenshots
 
 ![Image#1](https://raw.githubusercontent.com/AJSTYLE-lab/THRIVE-AI/main/SCREENSHOTS/page%231.png)
 
