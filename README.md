@@ -26,4 +26,4 @@ THRIVE-AI is an intelligent web application designed to enhance user well-being 
 ## 🖼️ Application Interface – Screenshots
 
 ![Image#1](https://raw.githubusercontent.com/AJSTYLE-lab/THRIVE-AI/main/SCREENSHOTS/page%231.png)
-
+![Image2](https://raw.githubusercontent.com/AJSTYLE-lab/THRIVE-AI/main/SCREENSHOTS/PAGE%232-BOOTCAMP.png)
