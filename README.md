@@ -2,6 +2,21 @@
 
 THRIVE-AI is an intelligent web application designed to enhance user well-being and productivity through a seamless AI chat experience. Powered by Gemini AI and built with React, this app delivers real-time support for mental health, motivation, productivity tracking, and more.
 
+🧠 Problem Statement
+In today’s fast-paced world, mental health challenges such as stress, anxiety, and depression are increasingly common, especially among students and young adults. However, access to professional mental health support is often limited due to stigma, cost, or availability. There is a growing need for an accessible, non-judgmental, and supportive tool that can assist individuals in managing their mental well-being.
+
+📝 Project Description
+THRIVE-AI is an AI-powered mental health chatbot built using React that provides supportive, empathetic, and informative responses to users seeking help with their mental well-being. The application aims to offer:
+
+💬 Conversational support for managing stress, anxiety, and negative thoughts.
+
+🤖 AI-driven responses tailored to mental health topics using natural language processing.
+
+🧘 User-friendly interface designed to be calming and accessible.
+
+🔐 Confidential interactions without judgment, promoting safe self-expression.
+
+THRIVE-AI does not replace professional therapy but serves as a digital companion to support mental wellness, especially during difficult moments.
 ## 🚀 Features
 
 - 💬 AI-Powered Chat using Gemini API
