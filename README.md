@@ -22,8 +22,7 @@ THRIVE-AI does not replace professional therapy but serves as a digital companio
 ## 🚀 Features
 
 - 💬 AI-Powered Chat using Gemini API
-- 🌙 Dark/light mode interface
-- 🔒 Secure and responsive UI
+- 🔒 Responsive UI
 - 📱 Fully responsive design
 - 🔄 Real-time query responses
 - 🌐 GPT-style conversational formatting
