@@ -11,31 +11,14 @@ THRIVE-AI is an intelligent web application designed to enhance user well-being 
 - 🔄 Real-time query responses
 - 🌐 GPT-style conversational formatting
 
-## 📂 Folder Structure
-
-```bash
-THRIVE-AI/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── ChatBox.js
-│   │   ├── GISDashboard.js
-│   │   └── ReportGeneration.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .env
-├── README.md
-└── package.json
-
-
 ## 🛠️ Tech Stack
-React.js
 
-Gemini AI (Google Generative AI)
+- React.js
 
-HTML5 & CSS3
+- Gemini AI (Google Generative AI)
 
-JavaScript (ES6+)
+- HTML5 & CSS3
 
-Visual Studio Code
+- JavaScript (ES6+)
+
+- Visual Studio Code
